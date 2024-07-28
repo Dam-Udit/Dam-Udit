@@ -2,8 +2,10 @@
 
 I am Udit Damle, a Data enthusiast with a robust background in various data technologies and an enthusiasm for continuous learning.
 
+
 - 🌱 **Currently Learning:** Data Engineering tools & frameworks like Spark, real-time data processing with Kafka, and Apache Airflow.
 - 🌱 **Currently Building:** Multiple portfolio and learning projects. 
+
 
 ### My Interests
 Machine Learning: Intermediate ML techniques ⚡
@@ -23,7 +25,7 @@ Sports Analytics: As a Chelsea fan, I enjoy applying data science to sports 🏆
 
 - [Kaggle](https://www.kaggle.com/uditdamle)
 - [LinkedIn](https://www.linkedin.com/in/dam-udit/)
-- 
+
 <!--
 **Dam-Udit/Dam-Udit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
