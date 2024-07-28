@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I am Udit Damle, a Data enthusiast with a robust background in various data technologies and an enthusiasm for continuous learning.
 
@@ -8,7 +8,7 @@ I am Udit Damle, a Data enthusiast with a robust background in various data tech
 ### My Interests
 Machine Learning: Intermediate ML techniques ⚡ <br>
 Big Data: Currently learning big data tools and frameworks to manage and analyze large datasets 💬 <br>
-Sports Analytics: As a Chelsea fan, I enjoy applying data science to sports 🏆 <br>
+Sports Analytics: As a Chelsea fan, I enjoy applying data science techniques to sports 🏆 <br>
 
 ### Technologies & Tools
 
