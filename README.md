@@ -8,9 +8,9 @@ I am Udit Damle, a Data enthusiast with a robust background in various data tech
 
 
 ### My Interests
-Machine Learning: Intermediate ML techniques ⚡
-Big Data: Currently learning big data tools and frameworks to manage and analyze large datasets 💬
-Sports Analytics: As a Chelsea fan, I enjoy applying data science to sports 🏆
+Machine Learning: Intermediate ML techniques ⚡ <br>
+Big Data: Currently learning big data tools and frameworks to manage and analyze large datasets 💬 <br>
+Sports Analytics: As a Chelsea fan, I enjoy applying data science to sports 🏆 <br>
 
 ### Technologies & Tools
 
@@ -23,8 +23,8 @@ Sports Analytics: As a Chelsea fan, I enjoy applying data science to sports 🏆
 
 ### Let's Connect
 
-- [Kaggle](https://www.kaggle.com/uditdamle)
-- [LinkedIn](https://www.linkedin.com/in/dam-udit/)
+- [Kaggle](https://www.kaggle.com/uditdamle) <br>
+- [LinkedIn](https://www.linkedin.com/in/dam-udit/) <br>
 
 <!--
 **Dam-Udit/Dam-Udit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
