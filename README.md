@@ -26,7 +26,7 @@ Sports Analytics: As a Chelsea fan, I enjoy applying data science to sports 🏆
 - [Kaggle](https://www.kaggle.com/uditdamle) <br>
 - [LinkedIn](https://www.linkedin.com/in/dam-udit/) <be>
 
-<lr>
+___
 <!--
 **Dam-Udit/Dam-Udit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
