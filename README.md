@@ -18,12 +18,6 @@ Sports Analytics: As a Chelsea fan, I enjoy applying data science techniques to 
 ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-000?&logo=apacheairflow)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
-
-### Let's Connect
-
-- [Kaggle](https://www.kaggle.com/uditdamle) <br>
-- [LinkedIn](https://www.linkedin.com/in/dam-udit/) <be>
-
 ___
 <!--
 **Dam-Udit/Dam-Udit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
